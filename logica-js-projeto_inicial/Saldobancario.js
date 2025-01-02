@@ -1,5 +1,5 @@
  alert("Descobrindo o seu saldo bancario");
- let saldo = prompt("Qual o valor do seu saldo");
+ let saldo = prompt("Qual o valor da sua conta");
  
  if(saldo<=0)
  {
