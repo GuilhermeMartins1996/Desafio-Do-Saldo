@@ -9,5 +9,5 @@
  else
  {
     alert(`Seu saldo bancario é positivo ${saldo}`);
-    console.log(`Não avisar o Serasa ${saldo}`);
+    console.log(`Não avisar sobre o ${saldo}`);
  }
